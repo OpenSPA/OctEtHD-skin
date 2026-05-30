@@ -213,7 +213,7 @@
 		<panel name="FrameClock"/>
 		<panel name="TemplateFrame"/>
 		<panel name="TemplateXtraEPGSelection"/>
-		<eLabel backgroundColor="OE_NewBg2" position="30,center" size="300,720" zPosition="1" verticalAlignment="center"/>
+		<eLabel backgroundColor="OE_NewBg2" position="20,center" size="300,720" zPosition="1" verticalAlignment="center"/>
 		<widget source="Title" render="Label" font="RegularBold;19" backgroundColor="OE_NewBg2" position="20,20" size="300,73" horizontalAlignment="center" verticalAlignment="center" transparent="1" zPosition="2"/>
 		<eLabel backgroundColor="blue_light" position="333,95" size="927,1" zPosition="-9" foregroundColor="un5678a4"/>
 		<eLabel backgroundColor="blue_light" position="333,620" size="927,1" zPosition="-9"/>
@@ -262,7 +262,7 @@
 		<panel name="FrameClock"/>
 		<panel name="TemplateFrame"/>
 		<panel name="TemplateXtraMultiEPGEventView"/>
-		<eLabel backgroundColor="OE_NewBg2" position="35,center" size="200,720" zPosition="1" verticalAlignment="center"/>
+		<eLabel backgroundColor="OE_NewBg2" position="23,center" size="200,720" zPosition="1" verticalAlignment="center"/>
 		<eLabel backgroundColor="blue_light" position="233,95" size="1027,1" zPosition="-9"/>
 		<eLabel backgroundColor="blue_light" position="233,620" size="1027,1" zPosition="-9"/>
 		<eLabel backgroundColor="blue_light" position="33,95" size="180,1" zPosition="2"/>
@@ -321,7 +321,7 @@
 			<convert type="ClockToText"/>
 		</widget>
 		<!-- Screen Colors -->
-		<eLabel backgroundColor="OE_NewBg2" position="45,center" size="67,720" zPosition="1" verticalAlignment="center"/>
+		<eLabel backgroundColor="OE_NewBg2" position="30,center" size="67,720" zPosition="1" verticalAlignment="center"/>
 		<eLabel backgroundColor="blue_light" position="107,620" size="1153,1" zPosition="-9"/>
 		<!-- Buttons -->
 		<ePixmap pixmap="buttons/key_menu.png" position="41,523" size="43,29" zPosition="2" alphaTest="blend"/>
@@ -446,7 +446,7 @@
 		<widget source="lab3" conditional="lab3" render="Label" position="20,180" size="267,20" font="RegularBold;15" backgroundColor="OE_NewBg2" horizontalAlignment="center" verticalAlignment="center" transparent="1" zPosition="3"/>
 		<widget source="lab4" conditional="lab4" render="Label" position="67,213" size="333,20" font="RegularBold;15" backgroundColor="OE_NewBg2" foregroundColor="blue_light" horizontalAlignment="left" verticalAlignment="center" transparent="1" zPosition="3"/>
 		<widget source="lab5" conditional="lab5" render="Label" position="20,243" size="267,20" font="RegularBold;15" backgroundColor="OE_NewBg2" horizontalAlignment="center" verticalAlignment="center" transparent="1" zPosition="3"/>
-		<widget name="rc" conditional="rc" alphaTest="blend" position="101,340" size="100,333" zPosition="10"/>
+		<widget name="rc" conditional="rc" alphaTest="blend" position="80,260" size="150,500" zPosition="10"/>
 		<widget name="arrowdown" conditional="arrowdown" pixmap="arrowdown.png" position="-67,-67" size="25,47" alphaTest="blend" zPosition="11"/>
 		<widget name="arrowdown2" conditional="arrowdown2" pixmap="arrowdown.png" position="-67,-67" size="25,47" alphaTest="blend" zPosition="11"/>
 		<widget name="arrowup" conditional="arrowup" pixmap="arrowup.png" position="-67,-67" size="25,47" alphaTest="blend" zPosition="11"/>

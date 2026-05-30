@@ -2,8 +2,8 @@
 <skin>
   <!-- ENHANCEDMOVIECENTER -->
   <screen name="EnhancedMovieCenterMenu" backgroundColor="transparent" flags="wfNoBorder" title="EnhancedMovieCenterMenu" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="973,627" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" position="70,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="973,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_NewBg2" position="47,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="113,87" size="867,1" zPosition="-9"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" font="RegularBold;23" backgroundColor="OE_Background" position="113,49" size="867,33" transparent="1"/>
@@ -23,9 +23,9 @@
   </screen>
 
   <screen name="EMCSelection" title="Enhanced Movie Center" position="0,0" size="1280,720" backgroundColor="transparent" flags="wfNoBorder">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="1220,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="1220,627" zPosition="-15"/>
 	<eLabel backgroundColor="blue_light" position="347,507" size="880,1" zPosition="-9"/>
-	<eLabel backgroundColor="OE_NewBg2" position="65,center" size="293,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_NewBg2" position="43,center" size="293,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="347,95" size="600,1" zPosition="-9" foregroundColor="un5678a4"/>
 	<eLabel backgroundColor="blue_light" position="53,95" size="273,1" zPosition="-9" foregroundColor="un5678a4"/>
 	<!-- Widget -->
@@ -152,8 +152,8 @@
   </screen>
 
   <screen name="EventViewContextMenu" title="" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="973,627" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" position="70,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="973,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_NewBg2" position="47,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="113,87" size="867,1" zPosition="-9"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" font="RegularBold;23" backgroundColor="OE_Background" position="113,49" size="867,33" transparent="1"/>
@@ -163,8 +163,8 @@
   </screen>
 
   <screen name="EMCPlaylistSetup" title="EMC Playlist Setup" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="973,627" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" position="70,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="973,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_NewBg2" position="47,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="113,87" size="867,1" zPosition="-9"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" font="RegularBold;23" backgroundColor="OE_Background" position="113,49" size="867,33" transparent="1"/>
@@ -181,8 +181,8 @@
   </screen>
 
   <screen name="EMCPlaylist" title="EMC Playlist" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="973,627" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" position="70,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="973,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_NewBg2" position="47,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="113,87" size="867,1" zPosition="-9"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" font="RegularBold;23" backgroundColor="OE_Background" position="113,49" size="867,33" transparent="1"/>
@@ -202,8 +202,8 @@
   </screen>
 
   <screen name="EMCFileBrowser" title="EMC Filebrowser" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="973,627" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" position="70,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="973,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_NewBg2" position="47,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="113,87" size="867,1" zPosition="-9"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" font="RegularBold;23" backgroundColor="OE_Background" position="113,49" size="867,33" transparent="1"/>
@@ -219,9 +219,9 @@
   </screen>
 
   <screen name="EMCImdbScan" title="EMC Cover search" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="1220,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="1220,627" zPosition="-15"/>
 	<eLabel backgroundColor="blue_light" position="57,462" size="307,1" zPosition="-9"/>
-	<eLabel backgroundColor="OE_NewBg2" position="65,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_NewBg2" position="43,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="387,95" size="467,1" zPosition="-9" foregroundColor="un5678a4"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" position="387,57" size="447,33" font="RegularBold;23" backgroundColor="OE_Background" transparent="1"/>
@@ -254,8 +254,8 @@
   </screen>
 
   <screen name="imdbSetup" title="EMC Cover search setup" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="973,627" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" position="70,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="973,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_NewBg2" position="47,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="113,87" size="867,1" zPosition="-9"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" font="RegularBold;23" backgroundColor="OE_Background" position="113,49" size="867,33" transparent="1"/>
@@ -271,9 +271,9 @@
   </screen>
 
   <screen name="getCover" title="EMC Cover Selecter" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="1220,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="1220,627" zPosition="-15"/>
 	<eLabel backgroundColor="blue_light" position="57,340" size="307,1" zPosition="-9"/>
-	<eLabel backgroundColor="OE_NewBg2" position="65,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_NewBg2" position="43,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="387,95" size="433,1" zPosition="-9" foregroundColor="un5678a4"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" position="387,57" size="447,33" font="RegularBold;23" backgroundColor="OE_Background" transparent="1"/>
@@ -290,15 +290,15 @@
   </screen>
 
   <screen name="DownloadMovieInfo" title="Movie Information Download (TMDb)" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="1220,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="1220,627" zPosition="-15"/>
 	<eLabel backgroundColor="blue_light" position="57,340" size="307,1" zPosition="-9"/>
-	<eLabel backgroundColor="OE_NewBg2" position="65,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_NewBg2" position="43,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="387,95" size="433,1" zPosition="-9" foregroundColor="un5678a4"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" position="387,57" size="447,33" font="RegularBold;23" backgroundColor="OE_Background" transparent="1"/>
 	<widget name="movie_name" font="RegularBold;19" backgroundColor="OE_NewBg2" horizontalAlignment="center" position="57,353" size="307,150" transparent="1" verticalAlignment="top"/>
 	<eLabel backgroundColor="white" position="57,512" size="307,1" zPosition="-9"/>
-	<widget name="movielist" itemHeight="33" font="RegularBold;20" scrollbarMode="showOnDemand" enableWrapAround="1" backgroundColor="OE_Background" position="580,center" size="840,500" transparent="1"/>
+	<widget name="movielist" itemHeight="33" font="RegularBold;20" scrollbarMode="showOnDemand" enableWrapAround="1" backgroundColor="OE_Background" position="387,center" size="840,500" transparent="1"/>
 	<widget name="poster" position="113,47" size="193,280" zPosition="4" alphaTest="on" backgroundColor="OE_Background"/>
 	<widget name="resulttext" font="RegularBold;19" backgroundColor="OE_NewBg2" horizontalAlignment="center" position="56,523" size="307,150" transparent="1" verticalAlignment="top"/>
 	<!-- Buttons -->
@@ -315,9 +315,9 @@
   </screen>
 
   <screen name="MovieInfoPreview" title="Movie Information Preview" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="1220,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="1220,627" zPosition="-15"/>
 	<eLabel backgroundColor="blue_light" position="57,340" size="307,1" zPosition="-9"/>
-	<eLabel backgroundColor="OE_NewBg2" position="65,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_NewBg2" position="43,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="387,95" size="433,1" zPosition="-9" foregroundColor="un5678a4"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" position="387,57" size="447,33" font="RegularBold;23" backgroundColor="OE_Background" transparent="1"/>
@@ -330,8 +330,8 @@
   </screen>
 
   <screen name="MovieInfoSetup" title="Movie Information Download Setup" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="973,627" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" position="70,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="973,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_NewBg2" position="47,center" size="53,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="113,87" size="867,1" zPosition="-9"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" font="RegularBold;23" backgroundColor="OE_Background" position="113,49" size="867,33" transparent="1"/>
@@ -347,15 +347,15 @@
   </screen>
 
   <screen name="MovieInfoTMDb" title="Movie Information TMDb" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
-	<eLabel backgroundColor="OE_Background" position="30,center" size="1220,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_Background" position="20,center" size="1220,627" zPosition="-15"/>
 	<eLabel backgroundColor="blue_light" position="57,340" size="307,1" zPosition="-9"/>
-	<eLabel backgroundColor="OE_NewBg2" position="65,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
+	<eLabel backgroundColor="OE_NewBg2" position="43,center" size="333,720" zPosition="-11" verticalAlignment="center"/>
 	<eLabel backgroundColor="blue_light" position="387,95" size="433,1" zPosition="-9" foregroundColor="un5678a4"/>
 	<!-- Widget -->
 	<widget source="Title" render="Label" position="387,57" size="447,33" font="RegularBold;23" backgroundColor="OE_Background" transparent="1"/>
 	<widget name="movie_name" font="RegularBold;19" backgroundColor="OE_NewBg2" horizontalAlignment="center" position="57,532" size="307,147" transparent="1" verticalAlignment="top"/>
 	<eLabel backgroundColor="white" position="57,527" size="307,1" zPosition="-9"/>
-	<widget name="previewlist" itemHeight="33" font="RegularBold;20" scrollbarMode="showOnDemand" enableWrapAround="1" backgroundColor="OE_Background" position="580,center" size="840,500" transparent="1"/>
+	<widget name="previewlist" itemHeight="33" font="RegularBold;20" scrollbarMode="showOnDemand" enableWrapAround="1" backgroundColor="OE_Background" position="387,center" size="840,500" transparent="1"/>
 	<widget name="previewcover" position="113,47" size="193,280" zPosition="4" alphaTest="on" backgroundColor="EL_Background"/>
 	<widget name="runtime" font="RegularBold;19" backgroundColor="OE_NewBg2" horizontalAlignment="left" position="53,370" size="153,30" transparent="1"/>
 	<widget name="genre" font="RegularBold;19" backgroundColor="OE_Background" foregroundColor="OE_Foreground" horizontalAlignment="left" position="53,400" size="153,30" transparent="1"/>
@@ -382,7 +382,7 @@
 	<!-- IMDB -->
   <screen name="IMDB" title="Internet Movie Database Details Plugin" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1280,720">
 	<ePixmap alphaTest="blend" pixmap="my_icons/norhap_logo.png" position="30,7" size="50,50" transparent="1" zPosition="1"/>
-	<eLabel backgroundColor="OE_NewBg2" foregroundColor="OE_Background" position="45,center" size="1220,627" zPosition="-15"/>
+	<eLabel backgroundColor="OE_NewBg2" foregroundColor="OE_Background" position="30,center" size="1220,627" zPosition="-15"/>
 	<eLabel backgroundColor="#002c445e" foregroundColor="OE_Background" position="0,0" size="1280,720" zPosition="-16"/>
 	<eLabel text="IMDB" position="567,7" size="87,43" backgroundColor="#002c445e" foregroundColor="green_light" zPosition="5" font="RegularBold;27" horizontalAlignment="center" transparent="1"/>
 	<!-- Widget -->
